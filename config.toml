@@ -9,4 +9,8 @@ googleAnalytics = 'UA-PROPERTY_ID'
     [[params.links]]
         icon = "github"
         title = "Github"
-        url = "https://github.com/"
+        url = "https://github.com/iron87"
+    [[params.links]]
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://www.linkedin.com/in/federico-cerruto-94034833/"

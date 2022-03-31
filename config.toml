@@ -1,6 +1,12 @@
 baseURL = 'https://iron87.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Federico Cerruto personal website'
 theme = "hallo"
+googleAnalytics = 'UA-PROPERTY_ID'
 [Author]
     name = "Federico Cerruto"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"

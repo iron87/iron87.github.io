@@ -14,3 +14,7 @@ googleAnalytics = 'UA-PROPERTY_ID'
         icon = "linkedin"
         title = "Linkedin"
         url = "https://www.linkedin.com/in/federico-cerruto-94034833/"
+    [[params.links]]
+        icon = "medium"
+        title = "Medium"
+        url = "https://medium.com/@fede.cerruto"
